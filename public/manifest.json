@@ -1,7 +1,7 @@
 {
     "name": "PWA CRUD App",
     "short_name": "PWA CRUD",
-    "start_url": ".",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6200ea",
